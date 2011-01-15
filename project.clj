@@ -1,4 +1,4 @@
-(defproject net.intensivesystems/conduit "0.7.0-SNAPSHOT"
+(defproject net.intensivesystems/conduit "0.8.0"
   :description "conduit - stream processing in Clojure.
                Similar to Apache Camel"
   :dependencies [[org.clojure/clojure "1.2.0"]
